@@ -1,0 +1,87 @@
+	* {
+		font-family: Arial, Verdana, serif;
+		font-size: 14px;
+		color: #000000;
+		text-align: center;}
+		
+	.center {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;}
+
+	body {
+		width: 960px;
+		margin: 0 auto;}
+
+	nav {
+		background-color: #efefef;
+		padding: 10px;
+		margin: 10px;}
+
+	li {
+		display: inline;
+		padding: 20px;}
+
+
+	section {
+		overflow: auto;
+		height: 100%;}
+	
+	main {
+		border: 15px solid #314a37;
+		background-color: #efefef;
+		padding: 30px 50px 30px 50px;
+		margin: 20px 10px 10px 10px;}
+
+	article {
+		float: left;
+		width: 285px;
+		margin: 10px;}
+
+	.card {
+  		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  		padding: 20px 20px 1px 20px;
+ 	 	margin: 10px 5px 10px 5px;}
+
+ 	 .container {
+ 		 padding: 0 30px;
+ 		 height: 265px;}
+
+ 	.title {
+  		color: lightgrey;}
+
+  	.description {
+  		font-family: arial;
+  		font-size: 14px;}
+
+	.button {
+ 	 	border: none;
+  		outline: 0;
+  		display: inline-block;
+  		padding: 15px;
+  		color: white;
+  		background-color: #314a37;
+  		font-size: 13px;
+  		text-align: center;
+  		cursor: pointer;
+  		width: 100%;}
+
+  	.mart {
+  		background-color: #efefef;
+  		margin-top: 20px;
+  		height: 455px;
+  		padding: 30px 20px 5px 20px;
+  		text-align: left;}
+
+  	h2, h3 {
+  		line-height: 5px;
+  	}
+
+
+	footer {
+		background-color: #efefef;
+		color: #ffffff;
+		padding: 10px;
+		margin: 10px;}
+
